@@ -1,16 +1,40 @@
-## Hi there 👋
+# Bruno Souza
 
-<!--
-**BrNdev5/BrNdev5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Tecnologia da Informação | Desenvolvedor em formação
 
-Here are some ideas to get you started:
+> Construindo, aprendendo e transformando ideias em projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mim
+
+Olá! Sou Bruno, estudante de Tecnologia da Informação e entusiasta de tecnologia e desenvolvimento de software.
+
+Atualmente, estou desenvolvendo minhas habilidades em programação, com foco em Python e Desenvolvimento Web.
+
+Gosto de explorar novas tecnologias, desenvolver projetos próprios e aprender através da prática.
+
+## ⚙️ Tecnologias e ferramentas
+
+- **Linguagens:** Python, HTML e CSS.
+- **Ferramentas:** Visual Studio Code, Git e GitHub.
+
+## 📚 Atualmente estudando
+
+- Lógica de programação.
+- Python.
+- Desenvolvimento Web.
+- Desenvolvimento de projetos pessoais.
+
+## 🚀 Objetivos
+
+- Aprimorar minhas habilidades em programação.
+- Desenvolver projetos cada vez mais completos.
+- Explorar novas tecnologias.
+- Construir uma trajetória na área de desenvolvimento de software.
+
+---
+
+<sub>Desenvolvido com curiosidade, dedicação e vontade de aprender.</sub>
+
+**BUILD. LEARN. INNOVATE.**
