@@ -1,40 +1,34 @@
-# Bruno Souza
+# Olá, eu sou Bruno Souza!
 
-### Estudante de Tecnologia da Informação | Desenvolvedor em formação
+**Estudante de TI | Desenvolvedor em formação**
 
-> Construindo, aprendendo e transformando ideias em projetos.
-
----
-
-## 👨‍💻 Sobre mim
-
-Olá! Sou Bruno, estudante de Tecnologia da Informação e entusiasta de tecnologia e desenvolvimento de software.
-
-Atualmente, estou desenvolvendo minhas habilidades em programação, com foco em Python e Desenvolvimento Web.
-
-Gosto de explorar novas tecnologias, desenvolver projetos próprios e aprender através da prática.
-
-## ⚙️ Tecnologias e ferramentas
-
-- **Linguagens:** Python, HTML e CSS.
-- **Ferramentas:** Visual Studio Code, Git e GitHub.
-
-## 📚 Atualmente estudando
-
-- Lógica de programação.
-- Python.
-- Desenvolvimento Web.
-- Desenvolvimento de projetos pessoais.
-
-## 🚀 Objetivos
-
-- Aprimorar minhas habilidades em programação.
-- Desenvolver projetos cada vez mais completos.
-- Explorar novas tecnologias.
-- Construir uma trajetória na área de desenvolvimento de software.
+Estou aprendendo programação e desenvolvendo projetos para transformar ideias em soluções através da tecnologia.
 
 ---
 
-<sub>Desenvolvido com curiosidade, dedicação e vontade de aprender.</sub>
+### Tecnologias e ferramentas
 
-**BUILD. LEARN. INNOVATE.**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github&theme=dark" />
+</p>
+
+### Atualmente estudando
+
+- Lógica de programação
+- Python
+- Desenvolvimento de projetos pessoais
+
+---
+
+### Sobre meus objetivos
+
+- Desenvolver minhas habilidades em programação.
+- Criar projetos próprios.
+- Aprender novas tecnologias.
+- Construir soluções úteis e criativas.
+
+---
+
+<p align="center">
+  <sub>BRNDEV5 • BUILD. LEARN. INNOVATE.</sub>
+</p>
