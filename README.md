@@ -26,7 +26,15 @@ Estou aprendendo programação e desenvolvendo projetos para transformar ideias 
 - Criar projetos próprios.
 - Aprender novas tecnologias.
 - Construir soluções úteis e criativas.
+---
 
+### Conecte-se comigo
+
+<p align="left">
+  <a href="https://github.com/BrNdev5/PORTIFOLIO">
+    <img src="https://img.shields.io/badge/PORTFOLIO-SOURCE_CODE-white?style=for-the-badge&logo=github&logoColor=black">
+  </a>
+</p>
 ---
 
 <p align="center">
